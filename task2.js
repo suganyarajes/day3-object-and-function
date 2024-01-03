@@ -7,8 +7,13 @@ request.onload = function(){
 
     
 
-   
+   for (var i=0; i<result.length; i++){
+           
+     console.log(result.flag);
 
-    console.log(result[1].flag);
+            }
+
+
+   
 };
     
