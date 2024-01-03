@@ -8,7 +8,7 @@ request.onload = function(){
             console.log(result[i].name);
             console.log(result[i].regions);
             console.log(result[i].sub-regions);
-            onsole.log(result[i].populations);
+            console.log(result[i].populations);
     
     
 
