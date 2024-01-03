@@ -4,9 +4,16 @@ request.send();
 request.onload = function(){
     var result = JSON.parse(request.response);
     //console.log(result);
-    for (var a in result){
-        console.log(a, result[a]);
-    }
+   for (var i=0; i<result.length; i++){
+            console.log(result[i].name);
+            console.log(result[i].regions);
+            console.log(result[i].sub-regions);
+            onsole.log(result[i].populations);
+    
+    
+
+            }
+
 
 
    
