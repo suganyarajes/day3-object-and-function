@@ -24,7 +24,3 @@ if(a==b){
   }
 
 
-//output:
-
-
-//"not same"
