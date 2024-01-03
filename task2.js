@@ -9,6 +9,6 @@ request.onload = function(){
 
    
 
-    console.log(result.flag);
+    console.log(result[1].flag);
 };
     
