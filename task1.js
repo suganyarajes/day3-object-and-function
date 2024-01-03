@@ -23,3 +23,8 @@ if(a==b){
     console.log("JSON not the same properties");
   }
 
+
+//output:
+
+
+//"not same"
